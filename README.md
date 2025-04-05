@@ -2,4 +2,6 @@ A small late-night project. I wanted to recreate the schematic in order to have 
 Based on the TP4056, it also includes the DW01A battery protection IC from Fortunate Semiconductor. 
 A knockoff TP4056 and a genuine DW01A and FS8205 can all be purchased for very low prices, and these boards can be printed for next to nothing, too!
 
+This will probably be revised in the future as the layout is relatively messy and inefficient.
+
 Thank you for checking out my repo. 
